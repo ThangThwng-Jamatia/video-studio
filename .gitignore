@@ -1,0 +1,36 @@
+# Media and heavy folders stay local (41 GB); only code, skills and notes go to GitHub
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.psd
+*.zip
+node_modules/
+.DS_Store
+Raw Clips V:O/
+B-Rolls/
+Sponsor Videos/
+Edited Videos/
+Long Videos/
+My Pics/
+Inspiration Video Edits/
+Thumbnails/
+_engine/public/
+_engine/day2-work/
+_engine/out/
+_engine/scripts/__pycache__/
+_engine/scripts/facebox
+_engine/scripts/personmatte
+**/Completed/
+**/Inspirations/
+.claude/settings.local.json
+_engine/.cache/
